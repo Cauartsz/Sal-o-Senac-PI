@@ -182,7 +182,6 @@ footer p {
     color: #f7a308; /* Cor laranja ao passar o mouse */
 }
 
-.login_container {
-  margin-right: 30%; 
-  color: #ffffff;
+#editar {
+    margin: 3%;
 }
